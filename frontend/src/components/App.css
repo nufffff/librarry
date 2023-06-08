@@ -1,0 +1,50 @@
+.App-logo {
+  height: 80px;
+  margin-right: 40px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 130px;
+  padding: 20px;
+  margin-bottom: 20px;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
+
+.App-title {
+  font-size: 2.5em;
+  cursor: pointer;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.menu{
+  margin-left: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.left{
+  display: flex;
+  align-items: center;
+}
+
+.books{
+  cursor: pointer;
+}
+.books:hover{
+  color: mediumblue;
+}
+.books:active{
+  color: orange;
+}
+
+.mainButts{
+  display: flex;
+  justify-content: space-between;
+  width: 220px;
+}
