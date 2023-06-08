@@ -1,12 +1,12 @@
-package com.sergio.jwt.backend.services;
+package com.fedorov.jwt.backend.services;
 
-import com.sergio.jwt.backend.dtos.CredentialsDto;
-import com.sergio.jwt.backend.dtos.SignUpDto;
-import com.sergio.jwt.backend.dtos.UserDto;
-import com.sergio.jwt.backend.entites.User;
-import com.sergio.jwt.backend.exceptions.AppException;
-import com.sergio.jwt.backend.mappers.UserMapper;
-import com.sergio.jwt.backend.repositories.UserRepository;
+import com.fedorov.jwt.backend.dtos.CredentialsDto;
+import com.fedorov.jwt.backend.dtos.SignUpDto;
+import com.fedorov.jwt.backend.dtos.UserDto;
+import com.fedorov.jwt.backend.entites.User;
+import com.fedorov.jwt.backend.exceptions.AppException;
+import com.fedorov.jwt.backend.mappers.UserMapper;
+import com.fedorov.jwt.backend.repositories.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.security.crypto.password.PasswordEncoder;

@@ -1,4 +1,4 @@
-package com.sergio.jwt.backend;
+package com.fedorov.jwt.backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

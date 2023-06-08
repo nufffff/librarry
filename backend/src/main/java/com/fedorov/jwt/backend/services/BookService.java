@@ -1,9 +1,9 @@
-package com.sergio.jwt.backend.services;
+package com.fedorov.jwt.backend.services;
 
-import com.sergio.jwt.backend.entites.Book;
-import com.sergio.jwt.backend.entites.Visitor;
-import com.sergio.jwt.backend.repositories.BookRepository;
-import com.sergio.jwt.backend.repositories.VisitorRepository;
+import com.fedorov.jwt.backend.entites.Book;
+import com.fedorov.jwt.backend.entites.Visitor;
+import com.fedorov.jwt.backend.repositories.BookRepository;
+import com.fedorov.jwt.backend.repositories.VisitorRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

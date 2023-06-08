@@ -1,10 +1,10 @@
-package com.sergio.jwt.backend.controllers;
+package com.fedorov.jwt.backend.controllers;
 
-import com.sergio.jwt.backend.config.UserAuthenticationProvider;
-import com.sergio.jwt.backend.dtos.CredentialsDto;
-import com.sergio.jwt.backend.dtos.SignUpDto;
-import com.sergio.jwt.backend.dtos.UserDto;
-import com.sergio.jwt.backend.services.UserService;
+import com.fedorov.jwt.backend.config.UserAuthenticationProvider;
+import com.fedorov.jwt.backend.dtos.CredentialsDto;
+import com.fedorov.jwt.backend.dtos.SignUpDto;
+import com.fedorov.jwt.backend.dtos.UserDto;
+import com.fedorov.jwt.backend.services.UserService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;

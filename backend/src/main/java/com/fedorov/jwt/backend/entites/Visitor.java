@@ -1,4 +1,4 @@
-package com.sergio.jwt.backend.entites;
+package com.fedorov.jwt.backend.entites;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;

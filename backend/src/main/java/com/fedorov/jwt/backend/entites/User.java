@@ -1,4 +1,4 @@
-package com.sergio.jwt.backend.entites;
+package com.fedorov.jwt.backend.entites;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.Size;
@@ -6,8 +6,6 @@ import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-
-import java.util.List;
 
 @AllArgsConstructor
 @NoArgsConstructor

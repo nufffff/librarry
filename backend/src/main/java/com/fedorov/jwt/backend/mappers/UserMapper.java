@@ -1,8 +1,8 @@
-package com.sergio.jwt.backend.mappers;
+package com.fedorov.jwt.backend.mappers;
 
-import com.sergio.jwt.backend.dtos.SignUpDto;
-import com.sergio.jwt.backend.dtos.UserDto;
-import com.sergio.jwt.backend.entites.User;
+import com.fedorov.jwt.backend.dtos.SignUpDto;
+import com.fedorov.jwt.backend.dtos.UserDto;
+import com.fedorov.jwt.backend.entites.User;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 
